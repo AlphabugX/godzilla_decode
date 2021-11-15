@@ -15,6 +15,7 @@ Godzilla.py: error: the following arguments are required: -d/--data
 python Godzilla.py -d 38F3ABE85948D564vfBIMcn2xlCZeTt3xKajRhv1UfDC5+KidKVHQV0TYeGnxL/CeXkYbegPI6tkcWYJnH10tRkuF/r0Z57m6xDziNeUjCtB8WEpN7K8wpQZmbwQvzA4JYKxQLfwVcZK6wO0U3oV1/JtcS+
 gBy7sFYq64K8hIoJZKXvF73ZSdcTNTNvGcnfeW7CWHuhQanjKoEVdescpdva1QVbxxLAiLTvjgquWISTy9ycQCqpi8DTgHRo=D7028F042ACDF2CA
 ```
+![image](Godzilla.png)
 参数 -k -m -d,以下是方法
 code
 ```python
