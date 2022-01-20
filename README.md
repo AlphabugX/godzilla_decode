@@ -1,5 +1,6 @@
 # Godzilla_Deocde
 ## 哥斯拉JSP和java内存马 全流量解密脚本
+![image](https://user-images.githubusercontent.com/27001865/150347697-4dcd401f-c664-43e1-a388-cc8055d34343.png)
 ```bash
 pip install Crypto
 ```
